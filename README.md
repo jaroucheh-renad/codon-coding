@@ -14,8 +14,7 @@ I created this script to perform decoding of codons on an mRNA transcript. It is
 
 1. Clone this repository:
    ```
-
-   
+   git clone https://github.com/jaroucheh-renad/codon-coding.git
    ```
 
 2. Install required packages:
