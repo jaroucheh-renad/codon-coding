@@ -25,5 +25,3 @@ I created this script to perform decoding of codons on an mRNA transcript. It is
    ```
    python test.py
    ```
-
-## Example output
