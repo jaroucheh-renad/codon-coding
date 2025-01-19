@@ -14,8 +14,7 @@ I created this script to perform decoding of codons on an mRNA transcript. It is
 
 1. Clone this repository:
    ```
-   git clone https://github.com/jaroucheh-renad/bio-dna-example.git
-   cd bio-dna-example
+   
    ```
 
 2. Install required packages:
