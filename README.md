@@ -14,6 +14,7 @@ I created this script to perform decoding of codons on an mRNA transcript. It is
 
 1. Clone this repository:
    ```
+
    
    ```
 
